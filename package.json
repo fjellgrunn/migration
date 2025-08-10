@@ -1,6 +1,6 @@
 {
     "name": "@fjell/migration",
-    "version": "4.3.2",
+    "version": "4.3.3-dev.0",
     "license": "UNLICENSED",
     "description": "Migration Library for Fjell",
     "engines": {
