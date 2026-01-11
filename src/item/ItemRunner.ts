@@ -1,5 +1,6 @@
 import * as Runner from "@/Runner";
-import { abbrevQuery, AllItemTypeArrays, Item } from "@fjell/core";
+import { AllItemTypeArrays, Item } from "@fjell/types";
+import { abbrevQuery } from "@fjell/core";
 import * as Library from "@fjell/lib";
 import * as ItemEnvironment from "./ItemEnvironment";
 import * as ItemMigration from "./ItemMigration";

@@ -1,6 +1,7 @@
 import { describe, expect, test } from '@jest/globals';
 import * as ItemAction from '@/item/ItemAction';
-import { cPK, PriKey } from '@fjell/core';
+import { PriKey } from "@fjell/types";
+import { cPK } from "@fjell/core";
 
 describe('ItemAction', () => {
   describe('Types', () => {

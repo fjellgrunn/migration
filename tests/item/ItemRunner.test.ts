@@ -1,7 +1,7 @@
 import * as ItemEnvironment from '@/item/ItemEnvironment';
 import * as ItemMigration from '@/item/ItemMigration';
 import * as ItemRunner from '@/item/ItemRunner';
-import { Item } from '@fjell/core';
+import { Item } from "@fjell/types";
 import * as Library from '@fjell/lib';
 
 jest.mock('@/item/ItemMigration');

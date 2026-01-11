@@ -1,6 +1,6 @@
 import * as ItemMigration from '@/item/ItemMigration';
 import * as Migration from '@/Migration';
-import { Item, ItemQuery } from '@fjell/core';
+import { Item, ItemQuery } from "@fjell/types";
 import * as Library from '@fjell/lib';
 
 describe('ItemMigration', () => {

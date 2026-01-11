@@ -1,5 +1,6 @@
 import * as Migration from '@/Migration';
-import { AllItemTypeArrays, IQFactory, Item, ItemQuery, LocKeyArray } from "@fjell/core";
+import { AllItemTypeArrays, Item, ItemQuery, LocKeyArray } from "@fjell/types";
+import { IQFactory } from "@fjell/core";
 import * as Library from '@fjell/lib';
 import * as ItemRunner from './ItemRunner';
 /**

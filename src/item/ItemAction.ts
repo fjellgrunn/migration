@@ -1,6 +1,6 @@
 import * as Action from '@/Action';
 import { createType } from '@/Action';
-import { ComKey, PriKey} from '@fjell/core';
+import { ComKey, PriKey } from "@fjell/types";
 
 export interface CreateType extends Action.Type {
   name: 'create';
